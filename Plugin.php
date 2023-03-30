@@ -31,7 +31,7 @@ class Plugin extends Base
 
     public function getPluginDescription()
     {
-        return t('My plugin is awesome');
+        return t('Adds new item in Analytics submenu. Displays progress of task groups, defined by categories and tags');
     }
 
     public function getPluginAuthor()

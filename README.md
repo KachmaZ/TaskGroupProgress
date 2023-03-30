@@ -1,7 +1,7 @@
 TaskGroupProgress
 ==============================
 
-My plugin is awesome
+Adds new item in Analytics submenu. Displays progress of task groups, defined by categories and tags
 
 Author
 ------
