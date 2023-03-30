@@ -1,0 +1,30 @@
+.TGP h2 {
+    text-align: center;
+}
+
+.TGP {
+    box-sizing: border-box;
+    height: 100%;
+
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form-tags_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-tags label {
+    margin-right: 20px;
+    margin-top: 20px;
+
+    white-space: nowrap;
+}
+
+.form-tags_checkbox {
+    margin: 0 !important;
+}
